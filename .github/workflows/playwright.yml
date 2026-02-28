@@ -25,6 +25,3 @@ jobs:
 
       - name: Run Playwright Scraper - 23f1000741@ds.study.iitm.ac.in
         run: node sumTables.js
-
-      - name: Run Playwright Scraper - 23f1000741@ds.study.iitm.ac.in
-        run: node sumTables.js
